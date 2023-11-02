@@ -1,2 +1,9 @@
 
 .DS_Store
+.ipynb_checkpoints/scraper-checkpoint.py
+.ipynb_checkpoints/README-checkpoint.md
+.ipynb_checkpoints/educationScrapper-checkpoint.ipynb
+.ipynb_checkpoints/billionaires-checkpoint.csv
+scraper.py
+data/old/.ipynb_checkpoints/Billionaires Statistics Dataset-checkpoint.csv
+data/.ipynb_checkpoints/billionaires-checkpoint.csv
