@@ -1,4 +1,4 @@
-finalWorth,personName,age,country,industries,status,gender,birthDate,gdp_country,life_expectancy_country,total_tax_rate_country,economic_class,education,region
+finalWorth,personName,age,country,industries,status,gender,birthDate,gdp_country,life_expectancy_country,total_tax_rate_country,economic_class,education,continent
 211000,Bernard Arnault & family,74.0,France,Fashion & Retail,U,M,1949-03-05 00:00:00,2715518274227.0,82.5,60.7,1,3,Europe
 80500,Francoise Bettencourt Meyers & family,69.0,France,Fashion & Retail,U,F,1953-07-10 00:00:00,2715518274227.0,82.5,60.7,1,,Europe
 40100,François Pinault & family,86.0,France,Fashion & Retail,D,M,1936-08-21 00:00:00,2715518274227.0,82.5,60.7,1,0,Europe
